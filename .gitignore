@@ -1,0 +1,6 @@
+logica/app/cache/*
+logica/app/logs/*
+logica/app/bootstrap*
+logica/vendor/*
+logica/web/bundles/
+logica/app/config/parameters.yml
